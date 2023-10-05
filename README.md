@@ -1,0 +1,1 @@
+# IBM-COGNOS-ANALYSIS-globalstores
